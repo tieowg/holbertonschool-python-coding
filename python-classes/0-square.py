@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-'''Salam necesen.'''
+'''that module is for a square class'''
 
 
 class Square:
-    '''Salam necesen.'''
+    '''That's a square class'''
     def __init__(self, size):
         self.__size = size
