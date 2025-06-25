@@ -4,4 +4,5 @@
 
 class Square:
     """That's a square class."""
-    pass
+    def __init__(self, size):
+        self.__size = size
